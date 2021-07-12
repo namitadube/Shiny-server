@@ -1,7 +1,7 @@
 ##mastersheet for p-value_0.01 and genes
 ##January,2016
 ##Namita 
-setwd("~/Research/pawan_backup/bay/bay_avg")
+setwd("~/home/dube_02/")
 #cat("enter your file name:")
 
 #head(y)
