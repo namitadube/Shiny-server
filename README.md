@@ -16,4 +16,5 @@ Type the command in the Rstudio console
 # Run the app
 Type the command in Rstudio console
 require(shiny)
+
 runApp()
